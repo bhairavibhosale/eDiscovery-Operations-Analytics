@@ -99,6 +99,3 @@ eDiscovery-Operations-Analytics/
 - [ ] Power BI dashboard development
 - [ ] Final business insights and recommendations
 
-**Bhairavi Bhosale**
-
-Data Operations Professional | Aspiring Data Analyst
